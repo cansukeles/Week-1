@@ -1,0 +1,1 @@
+Hava sıcaklığına göre etkinlik önerme programı geliştirildi.

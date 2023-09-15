@@ -1,0 +1,1 @@
+Girilen sayıları küçükten büyüğe doğru sıralayan program geliştirildi. 

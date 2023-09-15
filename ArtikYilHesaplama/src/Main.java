@@ -8,7 +8,7 @@ public class Main {
         System.out.print("Write the year: ");
         year = input.nextInt();
 
-        if((year % 4 == 0) || (year % 400 == 0)){
+        if((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0)){
             System.out.print(year + " is a leap year");
         }else {
             System.out.print(year + " isn't a leap year");

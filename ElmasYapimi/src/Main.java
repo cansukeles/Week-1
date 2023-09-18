@@ -16,7 +16,6 @@ public class Main {
             }
             System.out.println();
         }
-
         for (int a = basamakSayisi - 1; a > 0; a--) {
             for(int m = 1; m <= basamakSayisi - a; m++) {
                System.out.print(" ");
